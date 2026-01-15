@@ -4,8 +4,7 @@ title: Home
 
 # Welcome to My Digital Garden
 
-This is my personal knowledge base and blog, powered by [Obsidian](https://obsidian.md) and [Quartz](https://quartz.jzhao.xyz).
+안녕하세요 신지훈 입니다. 닉네임은 준 (Joon) 을 사용하고 있어요.
 
-## Recent Notes
-- [[Welcome]]
-- [[2026-01-14]]
+생각들이 휘발되지 않도록 이 곳에 그냥 이것저것 적어보려구요.
+
